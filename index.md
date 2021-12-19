@@ -1,5 +1,4 @@
- <img src="silo_small.jpg" alt="Paris" class="center"></img>
-[![silo](./silo_small.jpg)](https://nextcloud.mymediasilo.com)
+<img src="silo_small.jpg" alt="Paris" class="center"></img>
 <h1 align="center">Welcome to MyMediaSilo.com</h1>
 
 You can use the [editor on GitHub](https://github.com/seethro/seethro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
