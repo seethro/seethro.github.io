@@ -1,7 +1,7 @@
 [![silo](./silo_small.jpg)](https://nextcloud.mymediasilo.com)
 <p align="center">
 
-    ## Welcome to GitHub Pages
+    // ## Welcome to GitHub Pages
 
 </p>
 You can use the [editor on GitHub](https://github.com/seethro/seethro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
