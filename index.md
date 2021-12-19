@@ -1,6 +1,6 @@
 [![silo](./silo_small.jpg)](https://nextcloud.mymediasilo.com)
-<center>## Welcome to GitHub Pages</center>
-
+## Welcome to GitHub Pages
+{: style="text-align: center;"}
 You can use the [editor on GitHub](https://github.com/seethro/seethro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
