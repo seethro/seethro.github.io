@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://nextcloud.mymediasilo.com">
   <img src="silo_small.jpg" />
+  </a>
 </p>
 
 <h1 align="center">Welcome to MyMediaSilo.com</h1>
