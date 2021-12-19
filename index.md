@@ -1,4 +1,4 @@
- <img src="silo_small.jpg" alt="Paris" class="center"> 
+ <img src="silo_small.jpg" alt="Paris" class="center"></img>
 [![silo](./silo_small.jpg)](https://nextcloud.mymediasilo.com)
 <h1 align="center">Welcome to MyMediaSilo.com</h1>
 
