@@ -1,4 +1,4 @@
-![silo](./silo_small.jpg)
+[![silo](./silo_small.jpg)](https://nextcloud.mymediasilo.com)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/seethro/seethro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
