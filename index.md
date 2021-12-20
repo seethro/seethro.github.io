@@ -5,7 +5,9 @@
 </p>
 
 <h1 align="center">Welcome to MyMediaSilo.com</h1>
-<h2 align="center">LOGIN<a href="https://nextcloud.mymediasilo.com"</a></h2>
+<h2 align="center"><a href="https://nextcloud.mymediasilo.com">LOGIN</a></h2>
+
+
 MyMediaSilo is a self-hosted cloud service that is based on [Nextcloud](https://nextcloud.com/). Unlike Dropbox, iCloud, Google Drive or Amazon, MyMediaSilo is hosted on a private server, and doesnt suffer any privacy issues. 
 
 ### What can you do with MyMediaSilo?
