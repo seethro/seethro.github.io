@@ -10,8 +10,8 @@ MyMediaSilo is a self-hosted cloud service that is based on [Nextcloud](https://
 
 ### What can you do with MyMediaSilo?
 - Securely backup photos and video from your smartphone
-- View files across website and smartphone
-- Share photos and video with friends
+- View files via secure website and smartphone
+- Share photos and video with friends _even if they dont use MyMediaSilo_.
 
 You can use the [editor on GitHub](https://github.com/seethro/seethro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
