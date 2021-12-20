@@ -6,9 +6,9 @@
 
 <h1 align="center">Welcome to MyMediaSilo.com</h1>
 
-MyMediaSilo is a self-hosted cloud service; _[Nextcloud](https://nextcloud.com/)_ that is hosted on a private server. 
+MyMediaSilo is a self-hosted cloud service that is based on [Nextcloud](https://nextcloud.com/). Unlike Dropbox, iCloud, Google Drive or Amazon, MyMediaSilo is hosted on a private server, and doesnt suffer any privacy issues. 
 
-
+### What can you do with MyMediaSilo?
 You can use the [editor on GitHub](https://github.com/seethro/seethro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
