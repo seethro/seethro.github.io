@@ -23,7 +23,9 @@ MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www
 <p align="center">
 <img src="96510_mod.jpg" />
 </p>
-4. Next you need to enter the email address and password you created in step 1 and tap Login.
+4. Next you need to enter the email address and password you created in step 1 and tap <ins>**Login**</ins>.
 <p align="center">
 <img src="IMG-2713.jpg" />
 </p>
+5. You'll get a security message confirming you want to link your smartphone to your account.  Tap <ins>**Login**</ins>.
+6. 
