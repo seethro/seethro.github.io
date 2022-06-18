@@ -31,8 +31,11 @@ MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www
  <img src="IMG-2713.jpg" />
  </p>
  
-5\. You'll get a security message confirming you want to link your smartphone to your account.  Tap **Log** **in**.
+5\. You'll get a message confirming you want to link your smartphone to your account.  Tap **Log** **in**.
  <p align="center">
- <img src="99984_mod.jpg" />
+ <img src="GrantAccess.jpg" />
  </p>
-6\. 
+6\. Success! (Your screen may look different, I have "dark" theme enabled).  Tap on the blue "+" icon in the lower middle of the screen to add files to MyMediaSilo.  If you'd like to upload your entire photo roll to MyMediaSilo, check out this quick video.
+<p align="center">
+<img src="success.jpg" />
+</p>
