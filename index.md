@@ -31,7 +31,7 @@ MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www
  <img src="IMG-2713.jpg" />
  </p>
  
-5\. You'll get a message confirming you want to link your smartphone to your account.  Tap **Log** **in**.
+5\. You'll get a message confirming you want to link your smartphone to your account.  Tap **Grant** **access**.
  <p align="center">
  <img src="GrantAccess.jpg" />
  </p>
