@@ -24,4 +24,4 @@ MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www
 <img src="96510_mod.jpg" />
 </p>
 4. Next you need to enter the email address and password you created in step 1.
-5. 
+
