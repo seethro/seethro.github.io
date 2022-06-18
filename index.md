@@ -20,4 +20,4 @@ MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www
       - **You will be sent a link with a verfication code to verify your account.  The email will come from `mymediasilo@gmail.com` and may end up in your spam folder.**
 2. Download the Nextcloud App on your smartphone.  Search for Nextcloud in <a href="https://apps.apple.com/us/app/nextcloud/id1125420102" target="_blank" rel="noopener noreferrer">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=en_US&gl=US" target="_blank" rel="noopener noreferrer">Google Play</a>.
 3. Open the Nextcloud App on your phone that you downloaded from Step 2 and enter in login.mymediasilo.com in the server address window:
-<center>![96510_mod](https://user-images.githubusercontent.com/96386338/174455989-8979a350-497e-4012-8724-c9e35288ace3.jpg)</center>
+![96510_mod](https://user-images.githubusercontent.com/96386338/174455989-8979a350-497e-4012-8724-c9e35288ace3.jpg)
