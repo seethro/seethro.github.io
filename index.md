@@ -35,7 +35,7 @@ MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www
  <p align="center">
  <img src="GrantAccess.jpg" />
  </p>
-6\. Success! (Your screen may look different, I have "dark" theme enabled).  Tap on the blue "+" icon in the lower middle of the screen to add files to MyMediaSilo.  If you'd like to upload your entire photo roll to MyMediaSilo, check out this quick video.
+6\. Success! (Your screen may look different, I have "dark" theme enabled).  Tap on the blue "+" icon in the lower middle of the screen to add files to MyMediaSilo.  If you'd like to upload your entire photo roll to MyMediaSilo, check out this quick <a href="https://login.mymediasilo.com/s/5Tc6Y3gpPTbamnx" target="_blank" rel="noopener noreferrer">video</a>.
 <p align="center">
 <img src="success.jpg" />
 </p>
