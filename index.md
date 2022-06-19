@@ -8,7 +8,7 @@
 <h2 align="center"><a href="https://login.mymediasilo.com">LOGIN</a></h2>
 
 
-MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www.nextcloud.com" target="_blank" rel="noopener noreferrer">Nextcloud</a>. Unlike Dropbox, iCloud, Google Drive or Amazon, MyMediaSilo is hosted on a private server, and doesnt suffer any privacy issues. 
+MyMediaSilo is a self-hosted cloud service that is based on <a href="https://www.nextcloud.com" target="_blank" rel="noopener noreferrer">Nextcloud</a>. Unlike Dropbox, iCloud, Google Drive or Amazon, MyMediaSilo is hosted on a private server, and doesn't suffer any privacy issues. 
 
 ### What can you do with MyMediaSilo?
 - Securely backup photos and video from your smartphone.
